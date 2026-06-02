@@ -1,6 +1,6 @@
 # Privacy Policy — Alps Summits
 
-**Last updated: 31 May 2026**
+**Last updated: 2 June 2026**
 
 Alps Summits ("the app") is designed to respect your privacy. This policy explains what the app
 does — and does not — do with information.
@@ -16,6 +16,10 @@ Everything you create in the app — the summits you mark as climbed, dates, rat
 is stored **locally on your device** using Apple's on-device database (SwiftData). This
 information never leaves your device and is never sent to us or anyone else. Deleting the app
 removes this data.
+
+Pro features — including "Summits in view" (which 4000ers are visible from a peak) and "Routes by
+difficulty" — are computed entirely on your device from this bundled reference data and your own
+records. They send nothing anywhere and require no account or connection.
 
 ## Purchases
 
@@ -51,7 +55,4 @@ date.
 
 ## Contact
 
-Questions about this policy? Contact us at **support@example.com**.
-
-> Replace the contact email above and host this file before submitting to the App Store, then set
-> the same URL in App Store Connect and in `AppLinks.swift`.
+Questions about this policy? Contact us at **esener303@googlemail.com**.
