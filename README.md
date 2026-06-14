@@ -1,6 +1,6 @@
 # Privacy Policy — Alps Summits
 
-**Last updated: 2 June 2026**
+**Last updated: 14 June 2026**
 
 Alps Summits ("the app") is designed to respect your privacy. This policy explains what the app
 does — and does not — do with information.
